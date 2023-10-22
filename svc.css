@@ -432,7 +432,7 @@ margin-bottom: 16px;
     border-radius: 5rem;
 
 }
-@media(max-width:1280px){
+@media(max-width:1680px){
 
     section{
         padding:70px 2%;
@@ -453,7 +453,7 @@ margin-bottom: 16px;
     }
 }
 
-@media (max-width:1280px){
+@media (max-width:1680px){
   .main-text{
     color: var(--second-color);
   }
