@@ -25,7 +25,7 @@ html{
 .main-tex h2{
   justify-content: center;
   font-size: var(--h2-font);
-  margin-bottom: -50px;
+  margin-bottom: -30px;
 }
 
 
@@ -39,7 +39,7 @@ html{
   cursor: pointer;
   margin-top: 50px;
   overflow: hidden;
-  margin-left: 250px;
+  margin-left: 100px;
   
 } 
 .partner img{
@@ -236,11 +236,12 @@ header.sticky{
     box-shadow: 0px 4px 15px rgb(0 0 0 / 8%);
 }
 .main-text h2{
+  
     font-size: var(--h2-font);
     margin-bottom: -50px;
 }
 .main-text h3{
-  margin-left: 280px;
+  margin-left: 5%;
   font-size: var(--h2-font);
   margin-bottom: -10px;
 }
@@ -363,6 +364,12 @@ font-size: 23px;
     transform:scale(1.02) ;
 }
 
+#main-textt{
+  margin-left: 30%;
+  margin-bottom: 80px;
+
+}
+
 .contact{
     padding: 50px 15% 40px;
     background-color: #2d2d35;
@@ -425,7 +432,7 @@ margin-bottom: 16px;
     border-radius: 5rem;
 
 }
-@media(max-width:1690px){
+@media(max-width:1280px){
 
     section{
         padding:70px 2%;
@@ -446,7 +453,7 @@ margin-bottom: 16px;
     }
 }
 
-@media (max-width:1690px){
+@media (max-width:1280px){
   .main-text{
     color: var(--second-color);
   }
@@ -552,7 +559,7 @@ margin-bottom: 16px;
             flex-wrap: wrap;
           width: 1100px;
             padding: 20px 0;
-            margin-left: 18%;
+            margin-left: 5%;
           
           }
           .ag-courses_item {
@@ -734,7 +741,7 @@ margin-bottom: 16px;
           .main-calender{
             display: flex;
             max-width: 1400px;
-            margin-left: 260px;
+            margin-left: 5%;
            
           }
           
